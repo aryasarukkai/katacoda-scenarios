@@ -1,6 +1,6 @@
 {
   "title": "My first Katacoda Scenario",
-  "description": "'printf' in Ubuntu Bash",
+  "description": "`printf` in Ubuntu Bash",
   "difficulty": "Beginner",
   "time": "10 minutes",
   "details": {
