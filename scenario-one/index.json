@@ -2,7 +2,7 @@
   "title": "Scenario One",
   "description": "Scenario Num 1",
   "difficulty": "Intermediate",
-  "time": "2 hours",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {
@@ -27,7 +27,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "code": "foreground.sh"
     },
     "finish": {
       "text": "finish.md"
@@ -35,6 +36,6 @@
   },
   "environment": {},
   "backend": {
-    "imageid": "vscode"
+    "imageid": "ubuntu:2004"
   }
 }
